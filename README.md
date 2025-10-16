@@ -110,3 +110,5 @@ Learn more about `just` in the [official manual][just-manual].
 [cargo-binstall]: https://github.com/cargo-bins/cargo-binstall
 [just-repo]: https://github.com/casey/just
 [just-manual]: https://just.systems/man/en/
+
+<!-- Auto-update: 2025-10-16T13:03:38.495692 -->
