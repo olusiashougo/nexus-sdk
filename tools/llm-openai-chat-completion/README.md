@@ -61,3 +61,5 @@ The chat completion was successful and evaluated to JSON.
 An error occurred during the chat completion.
 
 - **`err.reason`: [`String`]** - The reason for the error.
+
+<!-- Auto-update: 2025-10-18T11:44:17.258700 -->
